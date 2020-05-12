@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "d3-geo-projection": "^2.9.0",
+    "shapefile": "^0.6.6"
+  }
+}
