@@ -1,4 +1,4 @@
-= geojson data prep for germany
+# geojson data prep for germany
 
 Following the nice tutorial here:
 https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c
